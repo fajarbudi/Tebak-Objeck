@@ -58,7 +58,7 @@ function App() {
             id="kamera"
             audio={false}
             mirrored={true}
-            width={440}
+            width={400}
           />
           <button
             onClick={() => predik()}
