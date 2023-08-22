@@ -14,13 +14,12 @@
   border-radius: 20px;
   background: #202022;
   box-shadow: -11px 11px 15px #161618, 11px -11px 15px #2a2a2c;
-  margin-bottom: 20px;
 }
 
 button {
   position: absolute;
-  bottom: 0px;
-  left: 40%;
+  bottom: -10px;
+  left: 35%;
 }
 
 .object {

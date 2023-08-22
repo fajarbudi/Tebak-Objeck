@@ -52,7 +52,7 @@ function App() {
           }}>
           Tunggu Webcam Ready...
         </h1>
-        <div style={{ position: "relative" }}>
+        <div style={{ position: "relative", marginBottom: "40px" }}>
           <Webcam
             className="webcam"
             id="kamera"
